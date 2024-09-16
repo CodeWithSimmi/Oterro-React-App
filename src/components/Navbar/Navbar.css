@@ -20,8 +20,9 @@
     display: flex;
     list-style: none;
     gap: 2rem;
-    font-size:17px ;
+    font-size:19px ;
     color: #49557e;
+    font-weight: 600;
     
 }
 
